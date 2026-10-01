@@ -22,8 +22,8 @@ title: Erin's First Jekyll Site
 email: erotoole@umich.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This site is the first of at least a few I will make.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/jekyll-test-site-1" # the subpath of your site, e.g. /blog
+url: "https://erinotoole01.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
